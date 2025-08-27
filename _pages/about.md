@@ -15,8 +15,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-:wave: Hi, I'm Lars. I'm a computer scientist fascinated by how machine learning can solve real-world problems (though honestly in many cases a simple linear method is enough).
+:wave: Hi, I’m Lars. I'm a computer scientist passionate about using machine learning (or what we now call AI) to tackle real-world challenges (though honestly in many cases a simple linear method is enough)
 
-My background is in computational biology and chemistry, but I've spent my career developing various machine learning solutions — primarily for automated driving using point cloud data (atoms are also points, right?). This involved challenges like object detection, prediction, uncertainty estimation, and tracking. I also applied deep learning in the field of liquid biopsy, where I built a system for cell detection and tracking.
+My academic roots are in bio- and cheminformatics, but my career has focused on developing machine learning solutions, especially for automated driving using point cloud data (after all, atoms are just points in space, too!). This work has spanned object detection, prediction, uncertainty estimation, and tracking. I’ve also applied deep learning in liquid biopsy, designing systems for cell detection and tracking.
 
-These days, I'm particularly drawn to generative models and geometric deep learning. This blog is where I explore these areas and share what I learn.
+Lately, I’m especially intrigued by the broad spectrum of AI topics, from AI for software development and its societal impact to AI for scientific discovery. This blog is where I occasionally share my thoughts and insights.
